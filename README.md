@@ -1,5 +1,7 @@
 # Google Knowledge Panel MCP Server
 
+<a href="https://m8ven.ai/mcp/theseoriddler/google_knowledge_panel_mcp?s=docs" rel="noopener"><img src="https://m8ven.ai/badge/mcp/theseoriddler/google_knowledge_panel_mcp" alt="M8ven Score" height="20"></a>
+
 An open-source [MCP](https://modelcontextprotocol.io) server for **entity SEO**. It lets Claude (or any MCP client) see what Google's Knowledge Graph, the data behind knowledge panels, holds for any brand, person or organization, how that entity connects to the real world, and what it still needs.
 
 Ask things like *"Which 'tesla' entity has the strongest knowledge panel presence?"* or *"Compare HubSpot and Salesforce: what is each entity missing?"* and get answers backed by live Google Knowledge Graph and Wikidata data, plus ready-to-paste JSON-LD schema.
